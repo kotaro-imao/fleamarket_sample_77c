@@ -37,7 +37,7 @@ belongs_to :user
 |name|string|null:false|
 |introduction|text|null:false|
 |price|integer|null:false|
-|brand|text|null:false|
+|brand|text|
 |item_condition_id(acitve_hash)|integer|null:false|
 |postage_payer_id(acitve_hash)|integer|null:false|
 |prefecture_code_id(acitve_hash)|integer|null:false|
